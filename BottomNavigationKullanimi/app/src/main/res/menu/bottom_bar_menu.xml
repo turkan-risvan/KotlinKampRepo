@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/birinciFragment"
+        android:icon="@drawable/birinci_item"
+        android:title="1.Fragment" />
+    <item
+        android:id="@+id/ikinciFragment"
+        android:icon="@drawable/ikinci_item"
+        android:title="2.Fragment" />
+</menu>
