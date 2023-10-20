@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096971752310",
+    "project_id": "notlaruygulamasi-da095",
+    "storage_bucket": "notlaruygulamasi-da095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096971752310:android:9ac6c3b05973a17a40e057",
+        "android_client_info": {
+          "package_name": "com.example.notuygulamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096971752310-du1mnq1b84kk25bpbo7tsoba6k303vo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNobPZp6WYh2ZF1b29bezI4kDIj_YI6xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096971752310-du1mnq1b84kk25bpbo7tsoba6k303vo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
